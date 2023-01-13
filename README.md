@@ -1,2 +1,1 @@
-# hello_world
-My first repo
+A Management System for the current MBA Topup Students
